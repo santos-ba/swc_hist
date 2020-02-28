@@ -18,3 +18,5 @@ plt.hist(x)
 plt.show()
 
 print("I am a champion of science!")
+
+print("Changes made by Sanchit Mehta")
