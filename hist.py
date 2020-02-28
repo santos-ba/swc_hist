@@ -13,7 +13,7 @@ x = np.random.normal(mu,sigma, 100)
 print("Random normal array mean centered ", x[:10])
 
 print("mean", np.mean(x))
-
+print("std", np.std(x))
 plt.hist(x)
 plt.show()
 
